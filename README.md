@@ -15,7 +15,7 @@ Meu nome é Miguel, e sou um estudante de Engenharia de Software na Puc MInas ap
 
 Aqui estão algumas das tecnologias e ferramentas que estou estudando e utilizando:
 
-- **Linguagens de Programação:** Java, JavaScript, C
+- **Linguagens de Programação:** Java, JavaScript, C, Swift
 - **Desenvolvimento Web:** HTML, CSS
 - **Banco de Dados:** MySQL, SQLite
 - **Controle de Versão:** Git, GitHub
