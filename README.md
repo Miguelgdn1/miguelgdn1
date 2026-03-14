@@ -1,4 +1,6 @@
-# Olá, eu sou o Miguel Gomes do Nascimento! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Miguel%20Gomes%20do%20Nascimento&fontSize=40&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Desenvolvedor%20Python&descAlignY=55&descAlign=50" width="100%"/>
+
+# Olá! 👋
 
 Estudante de Engenharia de Software na PUC Minas e Estagiário em Desenvolvimento, focado na criação de aplicações eficientes e na resolução de problemas tecnológicos. Tenho experiência prática com programação, integração de serviços em nuvem e banco de dados, sempre buscando aplicar as melhores práticas para entregar soluções de impacto.
 
@@ -8,7 +10,6 @@ Estudante de Engenharia de Software na PUC Minas e Estagiário em Desenvolviment
 * 💼 Atualmente atuando como **Estagiário Desenvolvedor Python** na Bluetape, focado em manipulação de dados e infraestrutura AWS.
 * 🌐 Fluente em inglês (Certificação FCE - B2), com facilidade para consumir documentação técnica e atuar em equipes multilíngues.
 * 💻 Atualmente trabalhando em projetos de **Web Scraping** (Selenium/BeautifulSoup) e iterando meu **Portfólio Pessoal**.
-* 🛠️ Meu ambiente de desenvolvimento: **VS Code** no macOS.
 * 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/miguelgdn/) | [gmiguel858@gmail.com](mailto:gmiguel858@gmail.com)
 
 ## 💼 Experiência Profissional
@@ -20,31 +21,22 @@ Estudante de Engenharia de Software na PUC Minas e Estagiário em Desenvolviment
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks e Bibliotecas
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Cloud, Banco de Dados e Ferramentas
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Projetos em Destaque
 
 * **[Meu Portfólio](URL_DO_SEU_REPOSITORIO)**: Site pessoal construído com HTML/CSS/JS e React, com sistema de feedback integrado via Firebase e deploy automatizado.
 * **[Scraping ReclameAqui](URL_DO_SEU_REPOSITORIO)**: Script em Python utilizando bibliotecas de extração para análise de dados da web e geração de insights.
+
+---
 
 ## 📊 Estatísticas e Atividade
 
@@ -61,7 +53,25 @@ Estudante de Engenharia de Software na PUC Minas e Estagiário em Desenvolviment
 
 <br>
 
+### ⏱️ WakaTime (Tempo Real de Código)
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelgdn1&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelgdn&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/87156da1-7db9-4f69-a010-48431fc0d6d1.svg" alt="Total Time Coded"/></a>
 </div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelgdn&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="WakaTime Card Escuro"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://wakatime.com/share/@miguelgdn/f8f79a98-a8d2-4c70-9840-a1f15cdafe71.svg" width="100%" alt="WakaTime Gráfico de Pizza"/>
+    </td>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://wakatime.com/share/@miguelgdn/f8f79a98-a8d2-4c70-9840-a1f15cdafe71.svg" width="100%" alt="WakaTime Gráfico de Pizza"/>
+    </td>
+  
+  </tr>
