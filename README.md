@@ -33,7 +33,7 @@ Estudante de Engenharia de Software na PUC Minas e Estagiário em Desenvolviment
 
 ## 📈 Projetos em Destaque
 
-* **[Meu Portfólio](https://miguel-tech.vercel.app/)**: Site pessoal construído com HTML/CSS/JS e React, com sistema de feedback integrado via Firebase e deploy automatizado.
+* **[Meu Portfólio](https://miguelgdn.dev)**: Site pessoal construído com HTML/CSS/JS e React, com sistema de feedback integrado via Firebase e deploy automatizado.
 * **[Scraping ReclameAqui](https://github.com/Miguelgdn1/Scraping-ReclameAqui)**: Script em Python utilizando bibliotecas de extração para análise de dados da web e geração de insights.
 
 ---
